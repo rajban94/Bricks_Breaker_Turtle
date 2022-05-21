@@ -37,3 +37,4 @@ And on top of these components, we have to handle the following:
 4. Ball bouncing off the boundaries of the game window
 5. End of the game if no bricks or life left 
 6. Increment the score
+7. Decrement of Lives
